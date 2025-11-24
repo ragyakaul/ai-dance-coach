@@ -1,7 +1,7 @@
 
 import mediapipe as mp
 import cv2
-from sklearn.metrics.pairwise import cosine_similarity
+#from sklearn.metrics.pairwise import cosine_similarity
 
 # Input and output paths
 danceVideoPath = "/Users/ragyakaul/Desktop/Code/pythonprojects/aidancecoach"
